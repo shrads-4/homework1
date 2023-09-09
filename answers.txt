@@ -1,0 +1,4 @@
+What is a remote repository?
+
+A remote repository is a central hub where a Git project's code and history are stored,
+which makes it possible for multiple developers to work together on a project.
