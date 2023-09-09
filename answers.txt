@@ -4,3 +4,8 @@ Merge and rebase are two different ways of incorporating changes from one branch
 Merging is a non-destructive way to combine branches, preserving their individual histories,
 while rebasing provides a cleaner, linear history because it moves the changes from one branch onto
 another branch.
+
+What is a remote repository?
+
+A remote repository is a central hub where a Git project's code and history are stored,
+which makes it possible for multiple developers to work together on a project.
